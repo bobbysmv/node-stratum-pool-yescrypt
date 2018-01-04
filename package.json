@@ -28,7 +28,7 @@
         "url": "https://github.com/bobbysmv/node-stratum-pool-yescrypt.git"
     },
     "dependencies": {
-        "multi-hashing": "git://github.com/bobbysmv/node-multi-hashing-yescrypt.git",
+        "multi-hashing": "git@github.com:bobbysmv/node-multi-hashing-yescrypt.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*"
